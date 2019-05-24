@@ -13,3 +13,6 @@ var server=app.listen(8082,function(){
 
     console.log("SOAP Server is running and listening at http://%s:%s",host,port)
 })
+
+//https://devhub.io/repos/vpulim-node-soap
+//https://github.com/vpulim/node-soap/blob/master/test/server-test.js
